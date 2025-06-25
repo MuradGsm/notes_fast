@@ -21,8 +21,8 @@ This is a simple FastAPI project created for testing and practicing CRUD (Create
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fastapi-crud-test.git
-   cd fastapi-crud-test
+   git clone https://github.com/MuradGsm/notes_fast.git
+   cd notes_fast
 
 
 
