@@ -30,8 +30,8 @@ pip install -r requirements.txt
 
 py main.py
 
-├── main.py             # FastAPI app
-├── schemas.py          # Pydantic schemas
-├── storage.py          # In-memory or DB storage logic
-├── requirements.txt    # Dependencies
+├── main.py         
+├── schemas.py          
+├── storage.py          
+├── requirements.txt    
 └── README.md
